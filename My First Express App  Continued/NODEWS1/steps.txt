@@ -1,0 +1,10 @@
+1. index.js
+2. npm init
+3. npm install express
+    server
+4. npm install ejs
+    use ejs
+    path of views
+    ejs file (home.ejs)  
+5. form + post req
+6. assets (for static files)
